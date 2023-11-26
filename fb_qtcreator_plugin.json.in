@@ -1,0 +1,11 @@
+{
+    "Name" : "fb_qtcreator_plugin",
+    "Version" : "1.0.0",
+    "CompatVersion" : "1.0.0",
+    "Vendor" : "Florian Behr",
+    "Copyright" : "(C) Florian Behr",
+    "License" : "MIT",
+    "Description" : "Changes to make QtCreator work for me",
+    "Url" : "https://github.com/eisbehr/fb_qtcreator_plugin",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}
